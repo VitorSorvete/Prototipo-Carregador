@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto apresenta o desenvolvimento de uma fonte de alimentação regulada utilizando uma ponte retificadora e o regulador de tensão 7812.
+Este projeto apresenta o desenvolvimento de um Prototipo de um carregador utilizando uma ponte retificadora e o regulador de tensão 7812.
 
 O circuito recebe uma tensão alternada (AC), converte para corrente contínua (DC) e regula a saída em 12V.
 
